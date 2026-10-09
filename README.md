@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-personajes.png" alt="La leyenda de Imanol: Link, Zelda y Ganondorf en pixel art bajo un cielo de noche" width="100%">
+  <img src="assets/banner.png" alt="La leyenda de Imanol: Link, Zelda y Ganondorf en pixel art bajo un cielo de noche" width="100%">
 </p>
 
 <img src="assets/titulo-sobre-mi.png" alt="Sobre mí" width="100%">
